@@ -1,6 +1,8 @@
 # WolfSec OSINT Framework
 
-![WolfSec OSINT Banner](banner.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/masterxhackerx420-oss/WolfSec-OSINT/main/banner.jpg" alt="WolfSec OSINT Banner" width="100%">
+</p>
 
 **DebianGang / WolfSec Edition** — A practical, free, passive OSINT toolkit inspired by the classic OSINT Framework mindmap.
 
